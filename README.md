@@ -1,4 +1,4 @@
-# expo-sample
+# expo-loki-sample
 Sample app to integrate Expo with Loki for Visual Integration Testing
 
 * Run `yarn install`
