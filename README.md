@@ -8,4 +8,4 @@ Sample app to integrate Expo with Loki for Visual Integration Testing
 * Make a change to the storybook
 * Run `yarn loki test` - Reporting the test as a failure as there is a change from the reference
 
-
+It uses `react-native-scripts` for managing the app
